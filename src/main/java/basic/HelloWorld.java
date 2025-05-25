@@ -9,6 +9,6 @@ public class HelloWorld {
 
 	//from b1 branch
 	public void m1() {
-		System.out.println("from method-1");//from c12 branch
+		System.out.println("from method-1");//from b12 branch + from c12 branch
 	}
 }
