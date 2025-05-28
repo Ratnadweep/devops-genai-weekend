@@ -1,3 +1,7 @@
+🛠️ DevOps Git & GitHub Practice — by Ratnadweep Ghosh
+
+This document captures my DevOps practice journey with Git & GitHub. I've written this in a learning-oriented way to reflect what I’m doing and why I’m doing it — step by step.
+
 # 🚀 DevOps Project Setup with Git and GitHub
 
 This document explains how I, as a DevOps Engineer, set up and collaborated on a project using Git and GitHub.
@@ -123,18 +127,6 @@ git checkout master
 git pull origin master
 git checkout -b new-feature-branch
 ```
-
----
-
-### 📌 Summary
-
-This Git + GitHub workflow ensures:
-
-* Clean collaboration across teams
-* Minimal merge conflicts
-* Centralized and traceable version control
-
----
 
 ## 🔀 Conflict Management & Resolution in Git
 
@@ -272,5 +264,12 @@ git push origin x1
 | Want to temporarily store work      | ❌            | ✅           |
 
 ---
+📚 Summary
 
+This repository and README reflect my personal DevOps practice with Git and GitHub. It demonstrates my understanding of Git workflows, collaboration, branching strategies, conflict resolution (rebase/stash), and day-to-day DevOps operations.
+
+I’ll keep updating this with new learnings.
+Thanks for reading! 😊
+
+— Ratnadweep Ghosh
 
